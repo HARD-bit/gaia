@@ -1,4 +1,4 @@
-# 🤖🛡️ Gaia – AI-Powered Women Safety Application (Streamlit)
+# 🤖🛡️ Gaia – AI-Powered Women Safety Application
 
 **Gaia** is a prototype **women safety web application** built with **Streamlit**, combining **AI-powered emotional support**, **emergency simulation**, and **geospatial awareness** to enhance personal safety.
 
